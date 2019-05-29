@@ -1,23 +1,32 @@
 fileFormatVersion: 2
-guid: 8ebd482f5ef9ed047b526a6c3216b710
+guid: 1e61633ab920e744082879fe19aba96c
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Lizard Walk_0
-    21300002: Lizard Walk_1
-    21300004: Lizard Walk_2
-    21300006: Lizard Walk_3
-    21300008: Lizard Walk_4
-    21300010: Lizard Walk_5
-    21300012: Lizard Walk_6
-    21300014: Lizard Walk_7
-    21300016: Lizard Walk_8
-    21300018: Lizard Walk_9
-    21300020: Lizard Walk_10
-    21300022: Lizard Walk_11
-    21300024: Lizard Walk_12
-    21300026: Lizard Walk_13
-    21300028: Lizard Walk_14
-    21300030: Lizard Walk_15
+    21300000: Lizard Jump_0
+    21300002: Lizard Jump_1
+    21300004: Lizard Jump_2
+    21300006: Lizard Jump_3
+    21300008: Lizard Jump_4
+    21300010: Lizard Jump_5
+    21300012: Lizard Jump_6
+    21300014: Lizard Jump_7
+    21300016: Lizard Jump_8
+    21300018: Lizard Jump_9
+    21300020: Lizard Jump_10
+    21300022: Lizard Jump_11
+    21300024: Lizard Jump_12
+    21300026: Lizard Jump_13
+    21300028: Lizard Jump_14
+    21300030: Lizard Jump_15
+    21300032: Lizard Jump_16
+    21300034: Lizard Jump_17
+    21300036: Lizard Jump_18
+    21300038: Lizard Jump_19
+    21300040: Lizard Jump_20
+    21300042: Lizard Jump_21
+    21300044: Lizard Jump_22
+    21300046: Lizard Jump_23
+    21300048: Lizard Jump_24
   externalObjects: {}
   serializedVersion: 9
   mipmaps:
@@ -111,13 +120,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Lizard Walk_0
+      name: Lizard Jump_0
       rect:
         serializedVersion: 2
-        x: 34
-        y: 951
-        width: 83
-        height: 88
+        x: 0
+        y: 1488
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,19 +134,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8037fc5d8aebde945a48e1b7ee4d85f0
+      spriteID: 337f8ab140e4c504c95343f462c5889a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_1
+      name: Lizard Jump_1
       rect:
         serializedVersion: 2
-        x: 285
-        y: 951
-        width: 83
-        height: 88
+        x: 251
+        y: 1488
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,19 +154,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f87979da840f8741bd3270a16e7004b
+      spriteID: 27353f2f057db2f438b7ac549883df58
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_2
+      name: Lizard Jump_2
       rect:
         serializedVersion: 2
-        x: 538
-        y: 952
-        width: 81
-        height: 88
+        x: 502
+        y: 1488
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,19 +174,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 919f1f1600571874fbf43cca8aac446a
+      spriteID: 04273be2449c7034885f22f58a793443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_3
+      name: Lizard Jump_3
       rect:
         serializedVersion: 2
-        x: 37
-        y: 766
-        width: 80
-        height: 89
+        x: 0
+        y: 1302
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,19 +194,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ce50f261870383f4fbde363a8678ef0d
+      spriteID: 6f3662f9761fab740bc3ee1ab20ea04e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_4
+      name: Lizard Jump_4
       rect:
         serializedVersion: 2
-        x: 289
-        y: 767
-        width: 79
-        height: 90
+        x: 251
+        y: 1302
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,19 +214,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f678c8a2eb4171247b0248e595de87d1
+      spriteID: dd74f376a01b726468c2b9b437fd0133
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_5
+      name: Lizard Jump_5
       rect:
         serializedVersion: 2
-        x: 540
-        y: 768
-        width: 79
-        height: 88
+        x: 502
+        y: 1302
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,19 +234,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1a92690c4a208d4ab9e53c8e254e8ca
+      spriteID: 6a5fc4343b6c6e74eba8cf4945bea480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_6
+      name: Lizard Jump_6
       rect:
         serializedVersion: 2
-        x: 37
-        y: 584
-        width: 80
-        height: 85
+        x: 0
+        y: 1116
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -245,19 +254,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c5555658b48d7c541a946ba24e3abeb7
+      spriteID: 95d16a74c51cfa9439eb762258c157a7
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_7
+      name: Lizard Jump_7
       rect:
         serializedVersion: 2
-        x: 287
-        y: 584
-        width: 81
-        height: 84
+        x: 251
+        y: 1116
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,19 +274,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1d737248598fbb419e49c57cc8b4178
+      spriteID: 280d1319b01222345abcc7750b6760ba
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_8
+      name: Lizard Jump_8
       rect:
         serializedVersion: 2
-        x: 537
-        y: 584
-        width: 82
-        height: 83
+        x: 502
+        y: 1116
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,19 +294,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6ee463acec9807c4f8f85cc98f966848
+      spriteID: 072763adc0ee8d940920fa7017268764
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_9
+      name: Lizard Jump_9
       rect:
         serializedVersion: 2
-        x: 35
-        y: 397
-        width: 82
-        height: 84
+        x: 0
+        y: 930
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,19 +314,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 654a05e8998898a4ea8594df6a85a97c
+      spriteID: 28d5b91e833ffc644af7945f25a7a085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_10
+      name: Lizard Jump_10
       rect:
         serializedVersion: 2
-        x: 287
-        y: 394
-        width: 81
-        height: 88
+        x: 251
+        y: 930
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -325,19 +334,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e66f1277acd7509488ea7357313cd7cb
+      spriteID: 7f71ee8d6910a614096564b9171e1d48
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_11
+      name: Lizard Jump_11
       rect:
         serializedVersion: 2
-        x: 540
-        y: 394
-        width: 79
-        height: 90
+        x: 502
+        y: 930
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -345,19 +354,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6018ded1bdfd6f74983361e7f5050204
+      spriteID: 9418d36bfde39064ca904cd54dd36dad
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_12
+      name: Lizard Jump_12
       rect:
         serializedVersion: 2
-        x: 38
-        y: 209
-        width: 79
-        height: 89
+        x: 0
+        y: 744
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -365,19 +374,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c85b9af1a7944b4d8888269ec5c32b2
+      spriteID: bcaa1a01940e2944aa973fd7302a500e
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_13
+      name: Lizard Jump_13
       rect:
         serializedVersion: 2
-        x: 288
-        y: 207
-        width: 80
-        height: 91
+        x: 251
+        y: 744
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -385,19 +394,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4b0a599a583c234881dd26908358e6a
+      spriteID: 93268abd99ee0114ea57afe0c42bebba
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_14
+      name: Lizard Jump_14
       rect:
         serializedVersion: 2
-        x: 539
-        y: 206
-        width: 80
-        height: 91
+        x: 502
+        y: 744
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,19 +414,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aee85c3537cce494d8d27420aaf1a382
+      spriteID: 5490fb58cee52ae4b9a16ef0acdf9c26
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Lizard Walk_15
+      name: Lizard Jump_15
       rect:
         serializedVersion: 2
-        x: 35
-        y: 20
-        width: 82
-        height: 90
+        x: 0
+        y: 558
+        width: 251
+        height: 186
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -425,7 +434,187 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 546682313cbfaae408ae0b3eabeaff22
+      spriteID: 3a531180d28087c4d864e1d7aac304d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541ce764f4952e49aecdcbf6d61df64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 558
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1377336650da40d4a87862d0895e65dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c78d82a9ee95b2498bec0f772f46c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_19
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18757c92ca6f89649aeccdef866e29a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_20
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 372
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7d1d5dc2d777b46a87c041fef42e3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e6164b79620f64fa552c37e8bd4853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_22
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f550a402448054290950eb18e411ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 186
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f0d9d932f6304db91a915e5e2af07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lizard Jump_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a3a8bec53398498138b235e8abd1e
       vertices: []
       indices: 
       edges: []
@@ -433,7 +622,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: b4fa5530e98881941819c96cc964d458
+    spriteID: ea7f43985576c9c48b6000a3dc9e1e40
     vertices: []
     indices: 
     edges: []
